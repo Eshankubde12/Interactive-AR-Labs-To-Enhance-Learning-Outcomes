@@ -76,11 +76,11 @@ Add your deployed project link here:
 https://ar-lab-theta.vercel.app
 
 📈 Future Enhancements
-AI-powered personalized learning
-Multi-user collaborative AR sessions
-Voice-guided AR tutorials
-AR quizzes and assessments
-Mobile app integration
+AI-powered personalized learning,
+Multi-user collaborative AR sessions,
+Voice-guided AR tutorials,
+AR quizzes and assessments,
+Mobile app integration,
 
 🧑‍💻 Author
 Eshan Kubade
