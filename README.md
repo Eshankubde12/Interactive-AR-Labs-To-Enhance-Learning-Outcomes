@@ -1,15 +1,15 @@
 # Interactive-AR-Labs-To-Enhance-Learning-Outcomes
 
 📘 Interactive AR Labs
-🚀 Project Overview
+## 🚀 Project Overview
 
 Interactive AR Labs is a web-based Augmented Reality learning platform designed to enhance educational experiences through immersive 3D visualization and real-time interaction. The platform helps students understand complex concepts using interactive AR models directly in the browser.
 
-🎯 Objective
+## 🎯 Objective
 
 The goal of this project is to improve learning outcomes by transforming traditional theoretical education into an engaging and interactive experience using Augmented Reality technology.
 
-✨ Key Features
+## ✨ Key Features
 📱 Browser-based AR experience without installing apps
 🧠 Interactive 3D educational models
 🎓 Enhances conceptual understanding through visualization
@@ -21,7 +21,7 @@ The goal of this project is to improve learning outcomes by transforming traditi
 
 Traditional learning methods often make it difficult for students to visualize complex concepts. Interactive AR Labs addresses this issue by providing immersive AR-based simulations that increase engagement, retention, and practical understanding.
 
-💡 How This Project Enhances Learning Outcomes
+## 💡 How This Project Enhances Learning Outcomes
 Better Concept Visualization
 
 Students can interact with 3D objects in real-world environments, improving understanding of difficult topics.
@@ -42,7 +42,7 @@ Self-Paced Exploration
 
 Learners can explore models independently and repeat experiments multiple times.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 HTML5
 CSS3
 JavaScript
@@ -52,7 +52,7 @@ AR.js
 A-Frame
 Vercel (Deployment)
 
-📂 Project Structure
+## 📂 Project Structure
 Interactive-AR-Labs/
 │── assets/
 │── models/
@@ -75,12 +75,12 @@ Open index.html in browser
 Add your deployed project link here:
 https://ar-lab-theta.vercel.app
 
-📈 Future Enhancements
+## 📈 Future Enhancements
 AI-powered personalized learning,
 Multi-user collaborative AR sessions,
 Voice-guided AR tutorials,
 AR quizzes and assessments,
 Mobile app integration,
 
-🧑‍💻 Author
+## 🧑‍💻 Author
 Eshan Kubade
